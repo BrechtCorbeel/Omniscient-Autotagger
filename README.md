@@ -8,6 +8,8 @@ Current implementation works on Linux and Windows.
 TO DO:
 
 - Expand and enhance settings.
+- Drag-and-drop window frame image file
+- Support basic Windows frame scaling
 - Add tracking features
 - Proper threading and implementation for tracking progress
 - Cloud features
