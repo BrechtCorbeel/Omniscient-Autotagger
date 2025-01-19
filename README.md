@@ -15,6 +15,7 @@ TO DO:
 - Payed features
 - Image tags
 - Basic drawing and editing features
+- Video tagging
 - ...
 
 ![image](https://github.com/user-attachments/assets/0502a84f-f4a8-4be6-9e22-7cfd364d18a2)
